@@ -11,5 +11,4 @@ str(datos)
 summary(datos)
 names(datos)
 
-
 ################Clacular e interpretar intervalos de confianza##################
